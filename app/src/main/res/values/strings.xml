@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">All Might Pedia Admin Panel</string>
+    <string name="questionName">Enter The question</string>
+    <string name="answerone">Answer One</string>
+    <string name="answertwo">Answer Two</string>
+    <string name="answerthree">Answer Three</string>
+    <string name="answerfour">Answer Four</string>
+</resources>
